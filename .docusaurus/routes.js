@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/gh-final-test/__docusaurus/debug',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug', '298'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/config',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/config', 'd36'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/content',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/content', '530'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/globalData',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/globalData', 'ad3'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/metadata',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/metadata', 'de9'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/registry',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/registry', '8c3'),
-    exact: true
-  },
-  {
-    path: '/gh-final-test/__docusaurus/debug/routes',
-    component: ComponentCreator('/gh-final-test/__docusaurus/debug/routes', '60c'),
-    exact: true
-  },
-  {
     path: '/gh-final-test/blog',
     component: ComponentCreator('/gh-final-test/blog', '93f'),
     exact: true
