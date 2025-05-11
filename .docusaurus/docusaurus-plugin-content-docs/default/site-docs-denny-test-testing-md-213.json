@@ -1,0 +1,23 @@
+{
+  "id": "Denny-test/testing",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Denny-test/testing.md",
+  "sourceDirName": "Denny-test",
+  "slug": "/Denny-test/testing",
+  "permalink": "/gh-final-test/docs/Denny-test/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Denny-test/testing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/gh-final-test/docs/tutorial-extras/translate-your-site"
+  }
+}
